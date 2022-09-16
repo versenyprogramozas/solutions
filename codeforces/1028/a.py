@@ -1,4 +1,3 @@
-# https://codeforces.com/contest/1028/submission/82875061
 n, m = map(int, input().split())
 
 for i in range(n):
